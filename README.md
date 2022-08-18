@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @spalacios23
 ASPIRE Intern at @johnshopkinsapl
 
-python
-js
+Experience with Python and JS, love to fidget with Arduinos.
 
 ...
 
