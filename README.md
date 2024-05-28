@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spalacios23
-ASPIRE Intern at @johnshopkinsapl
+Former ASPIRE Intern at @johnshopkinsapl and current SWE at @Deloitte
 
-Experience with Python and JS, love to fidget with Arduinos.
+Experience with Python and Java. 
 
 ...
 
