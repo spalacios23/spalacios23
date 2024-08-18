@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spalacios23
-Former ASPIRE Intern at @johnshopkinsapl and current SWE intern at @Deloitte
+Former SWE Intern @johnshopkinsapl and @Deloitte
 
 Experience with Python and Java. 
 
